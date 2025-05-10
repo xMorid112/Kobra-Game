@@ -20,4 +20,4 @@ KOBRA is a mini version of the classic Snake game built for the chipKIT board wi
 - Curiosity, excitement, and maybe some nostalgia... unless you were born after 2006 😄
 
 
-A classic snake game, but on hardware because Morid Faraj doesn’t just play games, he builds them. or does he ? 😎
+A classic snake game, but on hardware because Morid doesn’t just play games, he builds them. or does he ? 😎
